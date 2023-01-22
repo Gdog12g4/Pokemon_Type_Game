@@ -47,7 +47,7 @@ def pokegame():
         else:
             print("Invalid Entry")
             continue
-        print("Welcome to the Pokemon Type Game!!\n")
+        print("Welcome to the Pokemon Types Game!!\n")
         print("Pokemon Types:")
         print("-------------------------------")
         print("| BUG        DARK    DRAGON   |")

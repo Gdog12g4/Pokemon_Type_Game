@@ -1,8 +1,8 @@
-# **Pokemon Type Game (Python)** by Gerald Fleming
+# **Pokemon Types Game (Python)** by Gerald Fleming
 
 ## A Beginner Level Python project to outline the flow of a project as well as use of modules and functions. 
 #
-## Pokemon battle simulator based on real up-to-date strength and weakness charts. We use the Random() module as well as multiple custom functions to make difficult task easier by breaking them into individual parts.
+## Pokemon battle simulator based on real up-to-date strength and weakness charts. We use the Random() module as well as multiple custom functions to make difficult tasks easier by breaking them into individual parts.
 
 #
 
@@ -56,7 +56,7 @@
 #
 ## Ways to Improve
 - I could have used python class to tighten the code work for defining the strengths and weaknesses for more concise code.
-- I can apply the core of the code to a web app and add more visual aspects to it so it's not just play able from the console.
+- I can apply the core of the code to a web app and add more visual aspects to it so it's not just playable from the console.
 
 #
 I do not own Pokemon, a Nintendo brand.

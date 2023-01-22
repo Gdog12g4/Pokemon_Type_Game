@@ -133,6 +133,7 @@ def poke_neutral(mypoke, opppoke):
 # Now going over 18 types and Outcome Functions considering Dragon, Ghost, and Normal
 
 # Bug
+
 def poke_bug(mypoke, opppoke):
     strength = ["GRASS", "DARK", "PSYCHIC"]
     weakness = ["FIRE", "FLYING", "ROCK"]
